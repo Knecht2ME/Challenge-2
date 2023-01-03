@@ -1,0 +1,703 @@
+   50  python3 test.py
+   51  python3 test.py
+   52  clear
+   53  python3 test.py
+   54  python3 test.py
+   55  python3 test.py
+   56  python3 test.py
+   57  clear
+   58  clear
+   59  python3 test.py
+   60  python3 test.py
+   61  python3 test.py
+   62  python3 test.py
+   63  python3 test.py
+   64  python3 test.py
+   65  python3 test.py
+   66  python3 test.py
+   67  python3 test.py
+   68  clear
+   69  python3 test.py
+   70  python3 test.py
+   71  python3 test.py
+   72  python3 test.py
+   73  python3 test.py
+   74  python3 test.py
+   75  python3 test.py
+   76  clear
+   77  python3 test.py
+   78  python3 test.py
+   79  python3 test.py
+   80  python3 test.py
+   81  pwd
+   82  cd..
+   83  cd ..
+   84  cd ...
+   85  cd ../..
+   86   ls
+   87  ls
+   88  pwd
+   89  cd
+   90  lds
+   91  gir config
+   92  git config --global user.nam "Wanderer"
+   93  git config -- global user.name
+   94  $ git config -- clobal user.name "Wanderer"
+   95  ls
+   96  ds
+   97  $ git config -- gloabl user.name "Wanderer"
+   98  git config -- gloabl user.name "Wanderer"
+   99  git config --global user.name "Mona LIsa"
+  100  git config -- gloabl user.name
+  101  git config --global user.name "Knecht2ME"
+  102  git config --global user.name
+  103  git intit
+  104  git --help
+  105  git init
+  106  git status
+  107  cd git 
+  108  ls al ~/.ssh
+  109  ls
+  110  ds
+  111  ls dc
+  112  ping
+  113  cd
+  114  cd ~
+  115  cd ..
+  116  ls
+  117  pwd
+  118  touch <NEW terminal FOlder>
+  119  touch <nhs>
+  120  open Berkeley Fintech
+  121  cd Desktop
+  122  cd Desktop
+  123  cd Desktop
+  124  mkdir test
+  125  ~/Desktop mkdir test
+  126  touch hjk
+  127  open test
+  128  open Gotts stuff
+  129  open Gotts stuff
+  130  open tets
+  131  open test
+  132  open Life Docs.
+  133  $ git config --global user.name "Wanderer"
+  134  git config user.name "Wanderer"
+  135  git config -- global user.name
+  136  cd
+  137  git 
+  138  git config --global user.name
+  139  git config --global user.email
+  140  git config --global user.email carrygutknecht@gmail.com
+  141  git config --global user.email
+  142  ls
+  143  cd Desktop
+  144  ls
+  145  conda create ~n dev python
+  146  conda create ~n dev python=3.7 anaconda
+  147  conda create ~n dev python
+  148  conda create ~n dev pytong
+  149  conda create ~n dev python
+  150  /usr/local/bin/python3 /Users/carygutknecht/Desktop/FinTech_Workspace/Python_Project/hello_variable_world.py
+  151  /usr/local/bin/python3 /Users/carygutknecht/Desktop/FinTech_Workspace/Python_Project/hello_variable_world.py
+  152  /usr/local/bin/python3 /Users/carygutknecht/Desktop/FinTech_Workspace/Python_Project/hello_variable_world.py
+  153  /usr/local/bin/python3 /Users/carygutknecht/Desktop/FinTech_Workspace/Python_Project/hello_variable_world.py
+  154  /usr/local/bin/python3 /Users/carygutknecht/Desktop/FinTech_Workspace/Python_Project/hello_variable_world.py
+  155  /usr/local/bin/python3 /Users/carygutknecht/Desktop/FinTech_Workspace/Python_Project/hello_variable_world.py
+  156  /usr/local/bin/python3 /Users/carygutknecht/Desktop/FinTech_Workspace/Python_Project/skill_drill.py
+  157  conda --version
+  158  conda create ~n dev pythong=3.7 anaconda
+  159  conda update conda
+  160  y
+  161  "y"
+  162  y
+  163  conda create ~n dev python=3.7 anaconda
+  164  conda update conda
+  165  conda create -n dev python=3.7 anaconda
+  166  pwd
+  167  ls
+  168  cd Desktop
+  169  ls
+  170  mkdirect FinTech_Workspace
+  171  mkdir FinTech_Workspace
+  172  ls
+  173  cd FinTech_Workspace
+  174  ls
+  175  pwd
+  176  cd ..
+  177  ls
+  178  cd FintTech_Workspace
+  179  ls
+  180  pwd
+  181  cd FinTech_Workspace
+  182  ls
+  183  pwd
+  184  ls
+  185  cd Python_Project
+  186  ls
+  187  conda activate dev
+  188  --version
+  189  python --version
+  190  code .
+  191  code .
+  192  python -- version
+  193  python --version
+  194  code .
+  195  python hello_python.py
+  196  conda deactivate
+  197  conda activate dev
+  198  conda deactivate
+  199  code .
+  200  code .
+  201  conda activate
+  202  python skill_dril.py
+  203  python skill_drill.py
+  204  conda deactivate dev
+  205  conda deactivate
+  206  conda activate dev
+  207  conda deactivate
+  208  conda activate
+  209  python skil_drill.py
+  210  ls
+  211  python skill_drill.py
+  212  conda activate dev
+  213  python skill_drill.py
+  214  python skill_drill.py
+  215  python skill_drill.py
+  216  cd ..
+  217  pwd
+  218  cd
+  219  ls
+  220  cd Downloads
+  221  ls
+  222  python hello_variable_world.py
+  223  cd ..
+  224  cd desktop
+  225  cd FinTech_Workspace
+  226  ls
+  227  cd Python_Project
+  228  ls
+  229  ls hello_variable_world.py
+  230  python hello_variable_world.py
+  231  python hello_variable_world.py
+  232  python hello_variable_world.py
+  233  python hello_variable_world.py
+  234  python hello_variable_world.py
+  235  conda deactivate
+  236  pwd
+  237  ld
+  238  sd
+  239  cd..
+  240  /usr/local/bin/python3 /Users/carygutknecht/Desktop/FinTech_Workspace/lists.py
+  241  /usr/local/bin/python3 /Users/carygutknecht/Desktop/FinTech_Workspace/lists.py
+  242  /usr/local/bin/python3 /Users/carygutknecht/Desktop/FinTech_Workspace/lists.py
+  243  /usr/local/bin/python3 /Users/carygutknecht/Desktop/FinTech_Workspace/lists.py
+  244  /usr/local/bin/python3 /Users/carygutknecht/Desktop/FinTech_Workspace/lists.py
+  245  /usr/local/bin/python3 /Users/carygutknecht/Desktop/FinTech_Workspace/lists.py
+  246  /usr/local/bin/python3 /Users/carygutknecht/Desktop/FinTech_Workspace/lists.py
+  247  /usr/local/bin/python3 /Users/carygutknecht/Desktop/FinTech_Workspace/lists.py
+  248  /usr/local/bin/python3 /Users/carygutknecht/Desktop/FinTech_Workspace/lists.py
+  249  /usr/local/bin/python3 /Users/carygutknecht/Desktop/FinTech_Workspace/lists.py
+  250  /usr/local/bin/python3 /Users/carygutknecht/Desktop/FinTech_Workspace/lists.py
+  251  /usr/local/bin/python3 /Users/carygutknecht/Desktop/FinTech_Workspace/lists.py
+  252  /usr/local/bin/python3 /Users/carygutknecht/Desktop/FinTech_Workspace/lists.py
+  253  /usr/local/bin/python3 /Users/carygutknecht/Desktop/FinTech_Workspace/lists.py
+  254  /usr/local/bin/python3 /Users/carygutknecht/Desktop/FinTech_Workspace/lists.py
+  255  /usr/local/bin/python3 /Users/carygutknecht/Desktop/FinTech_Workspace/lists.py
+  256  /usr/local/bin/python3 /Users/carygutknecht/Desktop/FinTech_Workspace/lists.py
+  257  /usr/local/bin/python3 /Users/carygutknecht/Desktop/FinTech_Workspace/listing_assets.py
+  258  /usr/local/bin/python3 /Users/carygutknecht/Desktop/FinTech_Workspace/listing_assets.py
+  259  /usr/local/bin/python3 /Users/carygutknecht/Desktop/FinTech_Workspace/listing_assets.py
+  260  /usr/local/bin/python3 /Users/carygutknecht/Desktop/FinTech_Workspace/listing_assets.py
+  261  /usr/local/bin/python3 /Users/carygutknecht/Desktop/FinTech_Workspace/listing_assets.py
+  262  /usr/local/bin/python3 /Users/carygutknecht/Desktop/FinTech_Workspace/listing_assets.py
+  263  /usr/local/bin/python3 /Users/carygutknecht/Desktop/FinTech_Workspace/listing_assets.py
+  264  /usr/local/bin/python3 /Users/carygutknecht/Desktop/FinTech_Workspace/listing_assets.py
+  265  /usr/local/bin/python3 /Users/carygutknecht/Desktop/FinTech_Workspace/listing_assets.py
+  266  /usr/local/bin/python3 /Users/carygutknecht/Desktop/FinTech_Workspace/listing_assets.py
+  267  /usr/local/bin/python3 /Users/carygutknecht/Desktop/FinTech_Workspace/listing_assets.py
+  268  /usr/local/bin/python3 /Users/carygutknecht/Desktop/FinTech_Workspace/lists.py
+  269  /usr/local/bin/python3 /Users/carygutknecht/Desktop/FinTech_Workspace/lists.py
+  270  /usr/local/bin/python3 /Users/carygutknecht/Desktop/FinTech_Workspace/lists.py
+  271  /usr/local/bin/python3 /Users/carygutknecht/Desktop/FinTech_Workspace/lists.py
+  272  /usr/local/bin/python3 /Users/carygutknecht/Desktop/FinTech_Workspace/lists.py
+  273  /usr/local/bin/python3 /Users/carygutknecht/Desktop/FinTech_Workspace/lists.py
+  274  conda activate
+  275  conda activate dev
+  276  /usr/local/bin/python3 /Users/carygutknecht/Desktop/FinTech_Workspace/lists.py
+  277  /usr/local/bin/python3 /Users/carygutknecht/Desktop/FinTech_Workspace/lists.py
+  278  /usr/local/bin/python3 /Users/carygutknecht/Desktop/FinTech_Workspace/lists.py
+  279  /usr/local/bin/python3 /Users/carygutknecht/Desktop/FinTech_Workspace/lists.py
+  280  /usr/local/bin/python3 /Users/carygutknecht/Desktop/FinTech_Workspace/Python_Project/The_401K_Shuffle.py
+  281  /usr/local/bin/python3 /Users/carygutknecht/Desktop/FinTech_Workspace/Python_Project/The_401K_Shuffle.py
+  282  /usr/local/bin/python3
+  283  pwd
+  284  cd
+  285  ls
+  286  cd Desktop
+  287  ls Desktop
+  288  ls
+  289  cd FinTech_Workspace
+  290  pwd
+  291  ls
+  292  code .
+  293  code .
+  294  python3
+  295  conda activate dev
+  296  code .
+  297  code echo #{SHELL}
+  298  python -mipykernel install --user --name dev
+  299  conda install -c conda-forge nodejs
+  300  conda activate dev
+  301  jupyter lab
+  302  jupyter lab
+  303  conda deactivate
+  304  . code
+  305  . code
+  306   code .
+  307  code .
+  308  . code
+  309  conda activate base
+  310  /Users/carygutknecht/opt/anaconda3/bin/python "/Users/carygutknecht/Desktop/FinTech_Workspace/Class Activities/Class_2_Activities/08_Ins_Loops/Solved/loops.py"
+  311  /Users/carygutknecht/opt/anaconda3/bin/python "/Users/carygutknecht/Desktop/FinTech_Workspace/Class Activities/Class_2_Activities/08_Ins_Loops/Solved/loops.py"
+  312  /Users/carygutknecht/opt/anaconda3/bin/python "/Users/carygutknecht/Desktop/FinTech_Workspace/Class Activities/Class_2_Activities/08_Ins_Loops/Solved/loops.py"
+  313  /Users/carygutknecht/opt/anaconda3/bin/python "/Users/carygutknecht/Desktop/FinTech_Workspace/Class Activities/Class_2_Activities/08_Ins_Loops/Solved/loops.py"
+  314  /Users/carygutknecht/opt/anaconda3/bin/python "/Users/carygutknecht/Desktop/FinTech_Workspace/Class Activities/Class_2_Activities/08_Ins_Loops/Solved/loops.py"
+  315  /Users/carygutknecht/opt/anaconda3/bin/python "/Users/carygutknecht/Desktop/FinTech_Workspace/Class Activities/Class_2_Activities/08_Ins_Loops/Solved/loops.py"
+  316  /Users/carygutknecht/opt/anaconda3/bin/python "/Users/carygutknecht/Desktop/FinTech_Workspace/Class Activities/Class_2_Activities/08_Ins_Loops/Solved/loops.py"
+  317  /Users/carygutknecht/opt/anaconda3/bin/python "/Users/carygutknecht/Desktop/FinTech_Workspace/Class Activities/Class_2_Activities/08_Ins_Loops/Solved/loops.py"
+  318  /Users/carygutknecht/opt/anaconda3/bin/python "/Users/carygutknecht/Desktop/FinTech_Workspace/Class Activities/Class_2_Activities/08_Ins_Loops/Solved/loops.py"
+  319  /Users/carygutknecht/opt/anaconda3/bin/python "/Users/carygutknecht/Desktop/FinTech_Workspace/Class Activities/Class_2_Activities/08_Ins_Loops/Solved/loops.py"
+  320  /Users/carygutknecht/opt/anaconda3/bin/python "/Users/carygutknecht/Desktop/FinTech_Workspace/Class Activities/Class_2_Activities/08_Ins_Loops/Solved/loops.py"
+  321  /Users/carygutknecht/opt/anaconda3/bin/python "/Users/carygutknecht/Desktop/FinTech_Workspace/Class Activities/Class_2_Activities/08_Ins_Loops/Solved/loops.py"
+  322  clear
+  323  /Users/carygutknecht/opt/anaconda3/bin/python /Users/carygutknecht/Desktop/FinTech_Workspace/Python_Project/Conditionals_in_FIn.py
+  324  /Users/carygutknecht/opt/anaconda3/bin/python /Users/carygutknecht/Desktop/FinTech_Workspace/Python_Project/Conditionals_in_FIn.py
+  325  /Users/carygutknecht/opt/anaconda3/bin/python /Users/carygutknecht/Desktop/FinTech_Workspace/Python_Project/Conditionals_in_FIn.py
+  326  /Users/carygutknecht/opt/anaconda3/bin/python /Users/carygutknecht/Desktop/FinTech_Workspace/Python_Project/Conditionals_in_FIn.py
+  327  /Users/carygutknecht/opt/anaconda3/bin/python /Users/carygutknecht/Desktop/FinTech_Workspace/Python_Project/Conditionals_in_FIn.py
+  328  /Users/carygutknecht/opt/anaconda3/bin/python /Users/carygutknecht/Desktop/FinTech_Workspace/Python_Project/Conditionals_in_FIn.py
+  329  /Users/carygutknecht/opt/anaconda3/bin/python /Users/carygutknecht/Desktop/FinTech_Workspace/Python_Project/Conditionals_in_FIn.py
+  330  /Users/carygutknecht/opt/anaconda3/bin/python /Users/carygutknecht/Desktop/FinTech_Workspace/BTCampSPOT_Modules/02_Nested_Conditionals/Unsolved/nested_conditionals.py
+  331  /Users/carygutknecht/opt/anaconda3/bin/python /Users/carygutknecht/Desktop/FinTech_Workspace/BTCampSPOT_Modules/02_Nested_Conditionals/Unsolved/nested_conditionals.py
+  332  /Users/carygutknecht/opt/anaconda3/bin/python /Users/carygutknecht/Desktop/FinTech_Workspace/BTCampSPOT_Modules/02_Nested_Conditionals/Unsolved/nested_conditionals.py
+  333  /Users/carygutknecht/opt/anaconda3/bin/python /Users/carygutknecht/Desktop/FinTech_Workspace/BTCampSPOT_Modules/02_Nested_Conditionals/Unsolved/nested_conditionals.py
+  334  /Users/carygutknecht/opt/anaconda3/bin/python /Users/carygutknecht/Desktop/FinTech_Workspace/BTCampSPOT_Modules/02_Nested_Conditionals/Unsolved/nested_conditionals.py
+  335  /Users/carygutknecht/opt/anaconda3/bin/python /Users/carygutknecht/Desktop/FinTech_Workspace/BTCampSPOT_Modules/02_Nested_Conditionals/Unsolved/nested_conditionals.py
+  336  /Users/carygutknecht/opt/anaconda3/bin/python /Users/carygutknecht/Desktop/FinTech_Workspace/BTCampSPOT_Modules/02_Nested_Conditionals/Unsolved/nested_conditionals.py
+  337  /Users/carygutknecht/opt/anaconda3/bin/python /Users/carygutknecht/Desktop/FinTech_Workspace/BTCampSPOT_Modules/02_Nested_Conditionals/Unsolved/nested_conditionals.py
+  338  /Users/carygutknecht/opt/anaconda3/bin/python /Users/carygutknecht/Desktop/FinTech_Workspace/BTCampSPOT_Modules/03_Split_Second_Homebuying/Unsolved/split_second_homebuying.py
+  339  /Users/carygutknecht/opt/anaconda3/bin/python /Users/carygutknecht/Desktop/FinTech_Workspace/BTCampSPOT_Modules/03_Split_Second_Homebuying/Unsolved/split_second_homebuying.py
+  340  /Users/carygutknecht/opt/anaconda3/bin/python /Users/carygutknecht/Desktop/FinTech_Workspace/BTCampSPOT_Modules/03_Split_Second_Homebuying/Unsolved/split_second_homebuying.py
+  341  /Users/carygutknecht/opt/anaconda3/bin/python /Users/carygutknecht/Desktop/FinTech_Workspace/BTCampSPOT_Modules/03_Split_Second_Homebuying/Unsolved/split_second_homebuying.py
+  342  /Users/carygutknecht/opt/anaconda3/bin/python /Users/carygutknecht/Desktop/FinTech_Workspace/BTCampSPOT_Modules/03_Split_Second_Homebuying/Unsolved/split_second_homebuying.py
+  343  /Users/carygutknecht/opt/anaconda3/bin/python /Users/carygutknecht/Desktop/FinTech_Workspace/BTCampSPOT_Modules/03_Split_Second_Homebuying/Unsolved/split_second_homebuying.py
+  344  /Users/carygutknecht/opt/anaconda3/bin/python /Users/carygutknecht/Desktop/FinTech_Workspace/BTCampSPOT_Modules/03_Split_Second_Homebuying/Unsolved/split_second_homebuying.py
+  345  /Users/carygutknecht/opt/anaconda3/bin/python /Users/carygutknecht/Desktop/FinTech_Workspace/BTCampSPOT_Modules/03_Split_Second_Homebuying/Unsolved/split_second_homebuying.py
+  346  /Users/carygutknecht/opt/anaconda3/bin/python /Users/carygutknecht/Desktop/FinTech_Workspace/BTCampSPOT_Modules/03_Split_Second_Homebuying/Unsolved/split_second_homebuying.py
+  347  /Users/carygutknecht/opt/anaconda3/bin/python /Users/carygutknecht/Desktop/FinTech_Workspace/BTCampSPOT_Modules/03_Split_Second_Homebuying/Unsolved/split_second_homebuying.py
+  348  /Users/carygutknecht/opt/anaconda3/bin/python /Users/carygutknecht/Desktop/FinTech_Workspace/BTCampSPOT_Modules/03_Split_Second_Homebuying/Unsolved/split_second_homebuying.py
+  349  /Users/carygutknecht/opt/anaconda3/bin/python /Users/carygutknecht/Desktop/FinTech_Workspace/BTCampSPOT_Modules/03_Split_Second_Homebuying/Unsolved/split_second_homebuying.py
+  350  /Users/carygutknecht/opt/anaconda3/bin/python /Users/carygutknecht/Desktop/FinTech_Workspace/BTCampSPOT_Modules/03_Split_Second_Homebuying/Unsolved/split_second_homebuying.py
+  351  /Users/carygutknecht/opt/anaconda3/bin/python /Users/carygutknecht/Desktop/FinTech_Workspace/BTCampSPOT_Modules/03_Split_Second_Homebuying/Unsolved/split_second_homebuying.py
+  352  /Users/carygutknecht/opt/anaconda3/bin/python /Users/carygutknecht/Desktop/FinTech_Workspace/BTCampSPOT_Modules/03_Split_Second_Homebuying/Unsolved/split_second_homebuying.py
+  353  /Users/carygutknecht/opt/anaconda3/bin/python /Users/carygutknecht/Desktop/FinTech_Workspace/BTCampSPOT_Modules/03_Split_Second_Homebuying/Unsolved/split_second_homebuying.py
+  354  /Users/carygutknecht/opt/anaconda3/bin/python /Users/carygutknecht/Desktop/FinTech_Workspace/BTCampSPOT_Modules/03_Split_Second_Homebuying/Unsolved/split_second_homebuying.py
+  355  /Users/carygutknecht/opt/anaconda3/bin/python /Users/carygutknecht/Desktop/FinTech_Workspace/BTCampSPOT_Modules/03_Split_Second_Homebuying/Unsolved/split_second_homebuying.py
+  356  /Users/carygutknecht/opt/anaconda3/bin/python /Users/carygutknecht/Desktop/FinTech_Workspace/BTCampSPOT_Modules/03_Split_Second_Homebuying/Unsolved/split_second_homebuying.py
+  357  /Users/carygutknecht/opt/anaconda3/bin/python /Users/carygutknecht/Desktop/FinTech_Workspace/BTCampSPOT_Modules/03_Split_Second_Homebuying/Unsolved/split_second_homebuying.py
+  358  /Users/carygutknecht/opt/anaconda3/bin/python /Users/carygutknecht/Desktop/FinTech_Workspace/BTCampSPOT_Modules/01_A_Definitive_Buy/Unsolved/a_definitive_buy.py
+  359  /Users/carygutknecht/opt/anaconda3/bin/python /Users/carygutknecht/Desktop/FinTech_Workspace/BTCampSPOT_Modules/01_A_Definitive_Buy/Unsolved/a_definitive_buy.py
+  360  /Users/carygutknecht/opt/anaconda3/bin/python /Users/carygutknecht/Desktop/FinTech_Workspace/BTCampSPOT_Modules/01_A_Definitive_Buy/Unsolved/a_definitive_buy.py
+  361  /Users/carygutknecht/opt/anaconda3/bin/python /Users/carygutknecht/Desktop/FinTech_Workspace/BTCampSPOT_Modules/01_A_Definitive_Buy/Unsolved/a_definitive_buy.py
+  362  /Users/carygutknecht/opt/anaconda3/bin/python /Users/carygutknecht/Desktop/FinTech_Workspace/BTCampSPOT_Modules/01_A_Definitive_Buy/Unsolved/a_definitive_buy.py
+  363  /Users/carygutknecht/opt/anaconda3/bin/python /Users/carygutknecht/Desktop/FinTech_Workspace/BTCampSPOT_Modules/01_A_Definitive_Buy/Unsolved/a_definitive_buy.py
+  364  /Users/carygutknecht/opt/anaconda3/bin/python /Users/carygutknecht/Desktop/FinTech_Workspace/BTCampSPOT_Modules/01_A_Definitive_Buy/Unsolved/a_definitive_buy.py
+  365  /Users/carygutknecht/opt/anaconda3/bin/python /Users/carygutknecht/Desktop/FinTech_Workspace/BTCampSPOT_Modules/01_A_Definitive_Buy/Unsolved/a_definitive_buy.py
+  366  /Users/carygutknecht/opt/anaconda3/bin/python /Users/carygutknecht/Desktop/FinTech_Workspace/BTCampSPOT_Modules/01_A_Definitive_Buy/Unsolved/a_definitive_buy.py
+  367  /Users/carygutknecht/opt/anaconda3/bin/python /Users/carygutknecht/Desktop/FinTech_Workspace/BTCampSPOT_Modules/01_A_Definitive_Buy/Unsolved/a_definitive_buy.py
+  368  /Users/carygutknecht/opt/anaconda3/bin/python /Users/carygutknecht/Desktop/FinTech_Workspace/BTCampSPOT_Modules/01_A_Definitive_Buy/Unsolved/a_definitive_buy.py
+  369  /Users/carygutknecht/opt/anaconda3/bin/python /Users/carygutknecht/Desktop/FinTech_Workspace/BTCampSPOT_Modules/01_A_Definitive_Buy/Unsolved/a_definitive_buy.py
+  370  /Users/carygutknecht/opt/anaconda3/bin/python /Users/carygutknecht/Desktop/FinTech_Workspace/BTCampSPOT_Modules/01_A_Definitive_Buy/Unsolved/a_definitive_buy.py
+  371  /Users/carygutknecht/opt/anaconda3/bin/python /Users/carygutknecht/Desktop/FinTech_Workspace/BTCampSPOT_Modules/01_A_Definitive_Buy/Unsolved/a_definitive_buy.py
+  372  /Users/carygutknecht/opt/anaconda3/bin/python /Users/carygutknecht/Desktop/FinTech_Workspace/BTCampSPOT_Modules/01_A_Definitive_Buy/Unsolved/a_definitive_buy.py
+  373  /Users/carygutknecht/opt/anaconda3/bin/python /Users/carygutknecht/Desktop/FinTech_Workspace/BTCampSPOT_Modules/01_A_Definitive_Buy/Unsolved/a_definitive_buy.py
+  374  /Users/carygutknecht/opt/anaconda3/bin/python /Users/carygutknecht/Desktop/FinTech_Workspace/BTCampSPOT_Modules/01_A_Definitive_Buy/Unsolved/a_definitive_buy.py
+  375  /Users/carygutknecht/opt/anaconda3/bin/python /Users/carygutknecht/Desktop/FinTech_Workspace/BTCampSPOT_Modules/01_A_Definitive_Buy/Unsolved/a_definitive_buy.py
+  376  /Users/carygutknecht/opt/anaconda3/bin/python /Users/carygutknecht/Desktop/FinTech_Workspace/BTCampSPOT_Modules/01_A_Definitive_Buy/Unsolved/a_definitive_buy.py
+  377  /Users/carygutknecht/opt/anaconda3/bin/python /Users/carygutknecht/Desktop/FinTech_Workspace/BTCampSPOT_Modules/01_A_Definitive_Buy/Unsolved/a_definitive_buy.py
+  378  /Users/carygutknecht/opt/anaconda3/bin/python /Users/carygutknecht/Desktop/FinTech_Workspace/BTCampSPOT_Modules/02_Returned_Goods/Unsolved/returned_goods.py
+  379  /Users/carygutknecht/opt/anaconda3/bin/python /Users/carygutknecht/Desktop/FinTech_Workspace/BTCampSPOT_Modules/02_Returned_Goods/Unsolved/returned_goods.py
+  380  /Users/carygutknecht/opt/anaconda3/bin/python /Users/carygutknecht/Desktop/FinTech_Workspace/BTCampSPOT_Modules/02_Returned_Goods/Unsolved/returned_goods.py
+  381  /Users/carygutknecht/opt/anaconda3/bin/python /Users/carygutknecht/Desktop/FinTech_Workspace/BTCampSPOT_Modules/02_Returned_Goods/Unsolved/returned_goods.py
+  382  /Users/carygutknecht/opt/anaconda3/bin/python /Users/carygutknecht/Desktop/FinTech_Workspace/BTCampSPOT_Modules/02_Returned_Goods/Unsolved/returned_goods.py
+  383  /Users/carygutknecht/opt/anaconda3/bin/python /Users/carygutknecht/Desktop/FinTech_Workspace/BTCampSPOT_Modules/02_Returned_Goods/Unsolved/returned_goods.py
+  384  /Users/carygutknecht/opt/anaconda3/bin/python /Users/carygutknecht/Desktop/FinTech_Workspace/BTCampSPOT_Modules/02_Returned_Goods/Unsolved/returned_goods.py
+  385  /Users/carygutknecht/opt/anaconda3/bin/python /Users/carygutknecht/Desktop/FinTech_Workspace/BTCampSPOT_Modules/02_Returned_Goods/Unsolved/returned_goods.py
+  386  /Users/carygutknecht/opt/anaconda3/bin/python /Users/carygutknecht/Desktop/FinTech_Workspace/BTCampSPOT_Modules/02_Returned_Goods/Solved/returned_goods.py
+  387  /Users/carygutknecht/opt/anaconda3/bin/python /Users/carygutknecht/Desktop/FinTech_Workspace/BTCampSPOT_Modules/02_Returned_Goods/Unsolved/returned_goods.py
+  388  clear
+  389  /Users/carygutknecht/opt/anaconda3/bin/python /Users/carygutknecht/Desktop/FinTech_Workspace/BTCampSPOT_Modules/03_Split_Second_Homebuying_Part_2/Unsolved/split_second_part_2.py
+  390  /Users/carygutknecht/opt/anaconda3/bin/python /Users/carygutknecht/Desktop/FinTech_Workspace/BTCampSPOT_Modules/03_Split_Second_Homebuying_Part_2/Unsolved/split_second_part_2.py
+  391  /Users/carygutknecht/opt/anaconda3/bin/python /Users/carygutknecht/Desktop/FinTech_Workspace/BTCampSPOT_Modules/03_Split_Second_Homebuying_Part_2/Unsolved/split_second_part_2.py
+  392  /Users/carygutknecht/opt/anaconda3/bin/python /Users/carygutknecht/Desktop/FinTech_Workspace/BTCampSPOT_Modules/03_Split_Second_Homebuying_Part_2/Unsolved/split_second_part_2.py
+  393  /Users/carygutknecht/opt/anaconda3/bin/python /Users/carygutknecht/Desktop/FinTech_Workspace/BTCampSPOT_Modules/03_Split_Second_Homebuying_Part_2/Unsolved/split_second_part_2.py
+  394  /Users/carygutknecht/opt/anaconda3/bin/python /Users/carygutknecht/Desktop/FinTech_Workspace/BTCampSPOT_Modules/03_Split_Second_Homebuying_Part_2/Solved/split_second_part_2.py
+  395  /Users/carygutknecht/opt/anaconda3/bin/python /Users/carygutknecht/Desktop/FinTech_Workspace/BTCampSPOT_Modules/03_Split_Second_Homebuying_Part_2/Solved/split_second_part_2.py
+  396  /Users/carygutknecht/opt/anaconda3/bin/python /Users/carygutknecht/Desktop/FinTech_Workspace/BTCampSPOT_Modules/03_Split_Second_Homebuying_Part_2/Unsolved/split_second_part_2.py
+  397  /Users/carygutknecht/opt/anaconda3/bin/python /Users/carygutknecht/Desktop/FinTech_Workspace/BTCampSPOT_Modules/03_Split_Second_Homebuying_Part_2/Unsolved/split_second_part_2.py
+  398  /Users/carygutknecht/opt/anaconda3/bin/python /Users/carygutknecht/Desktop/FinTech_Workspace/BTCampSPOT_Modules/03_Split_Second_Homebuying_Part_2/Unsolved/split_second_part_2.py
+  399  clear
+  400  /Users/carygutknecht/opt/anaconda3/bin/python /Users/carygutknecht/Desktop/FinTech_Workspace/BTCampSPOT_Modules/03_Split_Second_Homebuying_Part_2/Solved/split_second_part_2.py
+  401  /Users/carygutknecht/opt/anaconda3/bin/python /Users/carygutknecht/Desktop/FinTech_Workspace/BTCampSPOT_Modules/03_Split_Second_Homebuying_Part_2/Solved/split_second_part_2.py
+  402  /Users/carygutknecht/opt/anaconda3/bin/python /Users/carygutknecht/Desktop/FinTech_Workspace/BTCampSPOT_Modules/03_Split_Second_Homebuying_Part_2/Solved/split_second_part_2.py
+  403  /Users/carygutknecht/opt/anaconda3/bin/python /Users/carygutknecht/Desktop/FinTech_Workspace/BTCampSPOT_Modules/03_Split_Second_Homebuying_Part_2/Solved/split_second_part_2.py
+  404  /Users/carygutknecht/opt/anaconda3/bin/python /Users/carygutknecht/Desktop/FinTech_Workspace/BTCampSPOT_Modules/iterators.py
+  405  /Users/carygutknecht/opt/anaconda3/bin/python /Users/carygutknecht/Desktop/FinTech_Workspace/BTCampSPOT_Modules/iterators.py
+  406  /Users/carygutknecht/opt/anaconda3/bin/python /Users/carygutknecht/Desktop/FinTech_Workspace/BTCampSPOT_Modules/iterators.py
+  407  /Users/carygutknecht/opt/anaconda3/bin/python /Users/carygutknecht/Desktop/FinTech_Workspace/BTCampSPOT_Modules/iterators.py
+  408  /Users/carygutknecht/opt/anaconda3/bin/python /Users/carygutknecht/Desktop/FinTech_Workspace/BTCampSPOT_Modules/iterators.py
+  409  /Users/carygutknecht/opt/anaconda3/bin/python /Users/carygutknecht/Desktop/FinTech_Workspace/BTCampSPOT_Modules/iterators.py
+  410  /Users/carygutknecht/opt/anaconda3/bin/python /Users/carygutknecht/Desktop/FinTech_Workspace/BTCampSPOT_Modules/iterators.py
+  411  /Users/carygutknecht/opt/anaconda3/bin/python /Users/carygutknecht/Desktop/FinTech_Workspace/BTCampSPOT_Modules/iterators.py
+  412  /Users/carygutknecht/opt/anaconda3/bin/python /Users/carygutknecht/Desktop/FinTech_Workspace/BTCampSPOT_Modules/iterators.py
+  413  /Users/carygutknecht/opt/anaconda3/bin/python /Users/carygutknecht/Desktop/FinTech_Workspace/BTCampSPOT_Modules/iterators.py
+  414  /Users/carygutknecht/opt/anaconda3/bin/python /Users/carygutknecht/Desktop/FinTech_Workspace/BTCampSPOT_Modules/iterators.py
+  415  clear
+  416  /Users/carygutknecht/opt/anaconda3/bin/python /Users/carygutknecht/Desktop/FinTech_Workspace/BTCampSPOT_Modules/01_Racking_Up_The_Profit/Unsolved/racking_up_the_profit.py
+  417  /Users/carygutknecht/opt/anaconda3/bin/python /Users/carygutknecht/Desktop/FinTech_Workspace/BTCampSPOT_Modules/01_Racking_Up_The_Profit/Unsolved/racking_up_the_profit.py
+  418  /Users/carygutknecht/opt/anaconda3/bin/python /Users/carygutknecht/Desktop/FinTech_Workspace/BTCampSPOT_Modules/01_Racking_Up_The_Profit/Unsolved/racking_up_the_profit.py
+  419  /Users/carygutknecht/opt/anaconda3/bin/python /Users/carygutknecht/Desktop/FinTech_Workspace/BTCampSPOT_Modules/01_Racking_Up_The_Profit/Unsolved/racking_up_the_profit.py
+  420  /Users/carygutknecht/opt/anaconda3/bin/python /Users/carygutknecht/Desktop/FinTech_Workspace/BTCampSPOT_Modules/01_Racking_Up_The_Profit/Unsolved/racking_up_the_profit.py
+  421  /Users/carygutknecht/opt/anaconda3/bin/python /Users/carygutknecht/Desktop/FinTech_Workspace/BTCampSPOT_Modules/01_Racking_Up_The_Profit/Unsolved/racking_up_the_profit.py
+  422  /Users/carygutknecht/opt/anaconda3/bin/python /Users/carygutknecht/Desktop/FinTech_Workspace/BTCampSPOT_Modules/01_Racking_Up_The_Profit/Unsolved/racking_up_the_profit.py
+  423  /Users/carygutknecht/opt/anaconda3/bin/python /Users/carygutknecht/Desktop/FinTech_Workspace/BTCampSPOT_Modules/01_Racking_Up_The_Profit/Unsolved/racking_up_the_profit.py
+  424  clear
+  425  /Users/carygutknecht/opt/anaconda3/bin/python /Users/carygutknecht/Desktop/FinTech_Workspace/BTCampSPOT_Modules/Notes_code/Iterating_nested_DS.py
+  426  /Users/carygutknecht/opt/anaconda3/bin/python /Users/carygutknecht/Desktop/FinTech_Workspace/BTCampSPOT_Modules/Notes_code/Iterating_nested_DS.py
+  427  /Users/carygutknecht/opt/anaconda3/bin/python /Users/carygutknecht/Desktop/FinTech_Workspace/BTCampSPOT_Modules/Notes_code/Iterating_nested_DS.py
+  428  /Users/carygutknecht/opt/anaconda3/bin/python /Users/carygutknecht/Desktop/FinTech_Workspace/BTCampSPOT_Modules/Notes_code/Iterating_nested_DS.py
+  429  /Users/carygutknecht/opt/anaconda3/bin/python /Users/carygutknecht/Desktop/FinTech_Workspace/BTCampSPOT_Modules/Notes_code/Iterating_nested_DS.py
+  430  /Users/carygutknecht/opt/anaconda3/bin/python /Users/carygutknecht/Desktop/FinTech_Workspace/BTCampSPOT_Modules/Notes_code/Iterating_nested_DS.py
+  431  /Users/carygutknecht/opt/anaconda3/bin/python /Users/carygutknecht/Desktop/FinTech_Workspace/BTCampSPOT_Modules/Notes_code/Iterating_nested_DS.py
+  432  /Users/carygutknecht/opt/anaconda3/bin/python /Users/carygutknecht/Desktop/FinTech_Workspace/BTCampSPOT_Modules/Notes_code/Iterating_nested_DS.py
+  433  /Users/carygutknecht/opt/anaconda3/bin/python /Users/carygutknecht/Desktop/FinTech_Workspace/BTCampSPOT_Modules/Notes_code/Iterating_nested_DS.py
+  434  /Users/carygutknecht/opt/anaconda3/bin/python /Users/carygutknecht/Desktop/FinTech_Workspace/BTCampSPOT_Modules/Notes_code/Iterating_nested_DS.py
+  435  /Users/carygutknecht/opt/anaconda3/bin/python /Users/carygutknecht/Desktop/FinTech_Workspace/BTCampSPOT_Modules/Notes_code/Iterating_nested_DS.py
+  436  /Users/carygutknecht/opt/anaconda3/bin/python /Users/carygutknecht/Desktop/FinTech_Workspace/BTCampSPOT_Modules/Notes_code/Iterating_nested_DS.py
+  437  /Users/carygutknecht/opt/anaconda3/bin/python /Users/carygutknecht/Desktop/FinTech_Workspace/BTCampSPOT_Modules/Notes_code/Iterating_nested_DS.py
+  438  /Users/carygutknecht/opt/anaconda3/bin/python /Users/carygutknecht/Desktop/FinTech_Workspace/BTCampSPOT_Modules/Notes_code/Iterating_nested_DS.py
+  439  import patthlib
+  440  /Users/carygutknecht/opt/anaconda3/bin/python /Users/carygutknecht/Desktop/FinTech_Workspace/BTCampSPOT_Modules/Notes_code/Iterating_nested_DS.py
+  441  /Users/carygutknecht/opt/anaconda3/bin/python /Users/carygutknecht/Desktop/FinTech_Workspace/BTCampSPOT_Modules/Notes_code/Iterating_nested_DS.py
+  442  /Users/carygutknecht/opt/anaconda3/bin/python /Users/carygutknecht/Desktop/FinTech_Workspace/BTCampSPOT_Modules/Notes_code/Iterating_nested_DS.py
+  443  /Users/carygutknecht/opt/anaconda3/bin/python /Users/carygutknecht/Desktop/FinTech_Workspace/BTCampSPOT_Modules/02_Pathways_to_Success_Part_1/Unsolved/pathways_to_success.py
+  444  /Users/carygutknecht/opt/anaconda3/bin/python /Users/carygutknecht/Desktop/FinTech_Workspace/BTCampSPOT_Modules/01_Read_and_Write_CSV/1.6.8.read_write_to_csv_files.py
+  445  /Users/carygutknecht/opt/anaconda3/bin/python /Users/carygutknecht/Desktop/FinTech_Workspace/BTCampSPOT_Modules/01_Read_and_Write_CSV/1.6.8.read_write_to_csv_files.py
+  446  /Users/carygutknecht/opt/anaconda3/bin/python /Users/carygutknecht/Desktop/FinTech_Workspace/BTCampSPOT_Modules/01_Read_and_Write_CSV/1.6.8.read_write_to_csv_files.py
+  447  /Users/carygutknecht/opt/anaconda3/bin/python /Users/carygutknecht/Desktop/FinTech_Workspace/BTCampSPOT_Modules/01_Read_and_Write_CSV/1.6.8.read_write_to_csv_files.py
+  448  /Users/carygutknecht/opt/anaconda3/bin/python /Users/carygutknecht/Desktop/FinTech_Workspace/BTCampSPOT_Modules/01_Read_and_Write_CSV/1.6.8.read_write_to_csv_files.py
+  449  /Users/carygutknecht/opt/anaconda3/bin/python /Users/carygutknecht/Desktop/FinTech_Workspace/BTCampSPOT_Modules/01_Read_and_Write_CSV/1.6.8.read_write_to_csv_files.py
+  450  /Users/carygutknecht/opt/anaconda3/bin/python /Users/carygutknecht/Desktop/FinTech_Workspace/BTCampSPOT_Modules/01_Read_and_Write_CSV/1.6.8.read_write_to_csv_files.py
+  451  clear
+  452  /Users/carygutknecht/opt/anaconda3/bin/python /Users/carygutknecht/Desktop/FinTech_Workspace/BTCampSPOT_Modules/03_Pathways_to_Success_Part_2/Unsolved/pathways_to_success_part_2.py
+  453  /Users/carygutknecht/opt/anaconda3/bin/python /Users/carygutknecht/Desktop/FinTech_Workspace/BTCampSPOT_Modules/03_Pathways_to_Success_Part_2/Unsolved/pathways_to_success_part_2.py
+  454  /Users/carygutknecht/opt/anaconda3/bin/python /Users/carygutknecht/Desktop/FinTech_Workspace/BTCampSPOT_Modules/03_Pathways_to_Success_Part_2/Unsolved/pathways_to_success_part_2.py
+  455  /Users/carygutknecht/opt/anaconda3/bin/python /Users/carygutknecht/Desktop/FinTech_Workspace/BTCampSPOT_Modules/03_Pathways_to_Success_Part_2/Unsolved/pathways_to_success_part_2.py
+  456  /Users/carygutknecht/opt/anaconda3/bin/python /Users/carygutknecht/Desktop/FinTech_Workspace/BTCampSPOT_Modules/03_Pathways_to_Success_Part_2/Solved/pathways_to_success_part_2.py
+  457  /Users/carygutknecht/opt/anaconda3/bin/python /Users/carygutknecht/Desktop/FinTech_Workspace/BTCampSPOT_Modules/03_Pathways_to_Success_Part_2/Solved/pathways_to_success_part_2.py
+  458  /Users/carygutknecht/opt/anaconda3/bin/python /Users/carygutknecht/Desktop/FinTech_Workspace/BTCampSPOT_Modules/03_Pathways_to_Success_Part_2/Unsolved/pathways_to_success_part_2.py
+  459  /Users/carygutknecht/opt/anaconda3/bin/python /Users/carygutknecht/Desktop/FinTech_Workspace/BTCampSPOT_Modules/03_Pathways_to_Success_Part_2/Unsolved/pathways_to_success_part_2.py
+  460  /Users/carygutknecht/opt/anaconda3/bin/python /Users/carygutknecht/Desktop/FinTech_Workspace/BTCampSPOT_Modules/03_Pathways_to_Success_Part_2/Unsolved/pathways_to_success_part_2.py
+  461  ls
+  462  /Users/carygutknecht/opt/anaconda3/bin/python /Users/carygutknecht/Desktop/FinTech_Workspace/BTCampSPOT_Modules/03_Pathways_to_Success_Part_2/Unsolved/pathways_to_success_part_2.py
+  463  /Users/carygutknecht/opt/anaconda3/bin/python /Users/carygutknecht/Desktop/FinTech_Workspace/BTCampSPOT_Modules/03_Pathways_to_Success_Part_2/Unsolved/pathways_to_success_part_2.py
+  464  cwd
+  465  clear
+  466  /Users/carygutknecht/opt/anaconda3/bin/python /Users/carygutknecht/Desktop/FinTech_Workspace/BTCampSPOT_Modules/03_Pathways_to_Success_Part_2/Unsolved/pathways_to_success_part_2.py
+  467  clear
+  468  /Users/carygutknecht/opt/anaconda3/bin/python /Users/carygutknecht/Desktop/FinTech_Workspace/BTCampSPOT_Modules/Notes_code/writing_csv.py
+  469  /Users/carygutknecht/opt/anaconda3/bin/python /Users/carygutknecht/Desktop/FinTech_Workspace/BTCampSPOT_Modules/Notes_code/writing_csv.py
+  470  clear
+  471  /Users/carygutknecht/opt/anaconda3/bin/python /Users/carygutknecht/Desktop/FinTech_Workspace/BTCampSPOT_Modules/Notes_code/writing_csv.py
+  472  /Users/carygutknecht/opt/anaconda3/bin/python /Users/carygutknecht/Desktop/FinTech_Workspace/BTCampSPOT_Modules/Notes_code/writing_csv.py
+  473  /Users/carygutknecht/opt/anaconda3/bin/python /Users/carygutknecht/Desktop/FinTech_Workspace/BTCampSPOT_Modules/Notes_code/writing_csv.py
+  474  /Users/carygutknecht/opt/anaconda3/bin/python /Users/carygutknecht/Desktop/FinTech_Workspace/BTCampSPOT_Modules/Notes_code/writing_csv.py
+  475  clear
+  476  /Users/carygutknecht/opt/anaconda3/bin/python /Users/carygutknecht/Desktop/FinTech_Workspace/BTCampSPOT_Modules/Notes_code/writing_csv.py
+  477  /Users/carygutknecht/opt/anaconda3/bin/python /Users/carygutknecht/Desktop/FinTech_Workspace/BTCampSPOT_Modules/Notes_code/writing_csv.py
+  478  /Users/carygutknecht/opt/anaconda3/bin/python /Users/carygutknecht/Desktop/FinTech_Workspace/BTCampSPOT_Modules/04_Automating_Equity_Rounds/Unsolved/automated_equity_rounds.py
+  479  clear
+  480  /Users/carygutknecht/opt/anaconda3/bin/python /Users/carygutknecht/Desktop/FinTech_Workspace/BTCampSPOT_Modules/04_Automating_Equity_Rounds/Unsolved/automated_equity_rounds.py
+  481  /Users/carygutknecht/opt/anaconda3/bin/python /Users/carygutknecht/Desktop/FinTech_Workspace/BTCampSPOT_Modules/04_Automating_Equity_Rounds/Unsolved/automated_equity_rounds.py
+  482  /Users/carygutknecht/opt/anaconda3/bin/python /Users/carygutknecht/Desktop/FinTech_Workspace/BTCampSPOT_Modules/04_Automating_Equity_Rounds/Unsolved/automated_equity_rounds.py
+  483  /Users/carygutknecht/opt/anaconda3/bin/python /Users/carygutknecht/Desktop/FinTech_Workspace/BTCampSPOT_Modules/04_Automating_Equity_Rounds/Unsolved/automated_equity_rounds.py
+  484  /Users/carygutknecht/opt/anaconda3/bin/python /Users/carygutknecht/Desktop/FinTech_Workspace/BTCampSPOT_Modules/04_Automating_Equity_Rounds/Unsolved/automated_equity_rounds.py
+  485  /Users/carygutknecht/opt/anaconda3/bin/python /Users/carygutknecht/Desktop/FinTech_Workspace/BTCampSPOT_Modules/04_Automating_Equity_Rounds/Unsolved/automated_equity_rounds.py
+  486  /Users/carygutknecht/opt/anaconda3/bin/python /Users/carygutknecht/Desktop/FinTech_Workspace/BTCampSPOT_Modules/04_Automating_Equity_Rounds/Unsolved/automated_equity_rounds.py
+  487  /Users/carygutknecht/opt/anaconda3/bin/python /Users/carygutknecht/Desktop/FinTech_Workspace/BTCampSPOT_Modules/04_Automating_Equity_Rounds/Unsolved/automated_equity_rounds.py
+  488  /Users/carygutknecht/opt/anaconda3/bin/python /Users/carygutknecht/Desktop/FinTech_Workspace/BTCampSPOT_Modules/04_Automating_Equity_Rounds/Unsolved/automated_equity_rounds.py
+  489  /Users/carygutknecht/opt/anaconda3/bin/python /Users/carygutknecht/Desktop/FinTech_Workspace/BTCampSPOT_Modules/04_Automating_Equity_Rounds/Unsolved/automated_equity_rounds.py
+  490  /Users/carygutknecht/opt/anaconda3/bin/python /Users/carygutknecht/Desktop/FinTech_Workspace/BTCampSPOT_Modules/04_Automating_Equity_Rounds/Unsolved/automated_equity_rounds.py
+  491  /Users/carygutknecht/opt/anaconda3/bin/python /Users/carygutknecht/Desktop/FinTech_Workspace/BTCampSPOT_Modules/04_Automating_Equity_Rounds/Unsolved/automated_equity_rounds.py
+  492  clear
+  493  /Users/carygutknecht/opt/anaconda3/bin/python /Users/carygutknecht/Desktop/FinTech_Workspace/BTCampSPOT_Modules/Challenge_files/loan_analyzer.py
+  494  /Users/carygutknecht/opt/anaconda3/bin/python /Users/carygutknecht/Desktop/FinTech_Workspace/BTCampSPOT_Modules/Challenge_files/loan_analyzer.py
+  495  /Users/carygutknecht/opt/anaconda3/bin/python /Users/carygutknecht/Desktop/FinTech_Workspace/BTCampSPOT_Modules/Challenge_files/loan_analyzer.py
+  496  /Users/carygutknecht/opt/anaconda3/bin/python /Users/carygutknecht/Desktop/FinTech_Workspace/BTCampSPOT_Modules/Challenge_files/loan_analyzer.py
+  497  /Users/carygutknecht/opt/anaconda3/bin/python /Users/carygutknecht/Desktop/FinTech_Workspace/BTCampSPOT_Modules/Challenge_files/loan_analyzer.py
+  498  /Users/carygutknecht/opt/anaconda3/bin/python /Users/carygutknecht/Desktop/FinTech_Workspace/BTCampSPOT_Modules/Challenge_files/loan_analyzer.py
+  499  /Users/carygutknecht/opt/anaconda3/bin/python /Users/carygutknecht/Desktop/FinTech_Workspace/BTCampSPOT_Modules/Challenge_files/loan_analyzer.py
+  500  clear
+  501  /Users/carygutknecht/opt/anaconda3/bin/python /Users/carygutknecht/Desktop/FinTech_Workspace/BTCampSPOT_Modules/Challenge_files/loan_analyzer.py
+  502  /Users/carygutknecht/opt/anaconda3/bin/python /Users/carygutknecht/Desktop/FinTech_Workspace/BTCampSPOT_Modules/Challenge_files/loan_analyzer.py
+  503  /Users/carygutknecht/opt/anaconda3/bin/python /Users/carygutknecht/Desktop/FinTech_Workspace/BTCampSPOT_Modules/Challenge_files/loan_analyzer.py
+  504  /Users/carygutknecht/opt/anaconda3/bin/python /Users/carygutknecht/Desktop/FinTech_Workspace/BTCampSPOT_Modules/Challenge_files/loan_analyzer.py
+  505  /Users/carygutknecht/opt/anaconda3/bin/python /Users/carygutknecht/Desktop/FinTech_Workspace/BTCampSPOT_Modules/Challenge_files/loan_analyzer.py
+  506  /Users/carygutknecht/opt/anaconda3/bin/python /Users/carygutknecht/Desktop/FinTech_Workspace/BTCampSPOT_Modules/Challenge_files/loan_analyzer.py
+  507  clear
+  508  /Users/carygutknecht/opt/anaconda3/bin/python /Users/carygutknecht/Desktop/FinTech_Workspace/BTCampSPOT_Modules/Challenge_files/loan_analyzer.py
+  509  /Users/carygutknecht/opt/anaconda3/bin/python /Users/carygutknecht/Desktop/FinTech_Workspace/BTCampSPOT_Modules/Challenge_files/loan_analyzer.py
+  510  /Users/carygutknecht/opt/anaconda3/bin/python /Users/carygutknecht/Desktop/FinTech_Workspace/BTCampSPOT_Modules/Challenge_files/loan_analyzer.py
+  511  /Users/carygutknecht/opt/anaconda3/bin/python /Users/carygutknecht/Desktop/FinTech_Workspace/BTCampSPOT_Modules/Challenge_files/loan_analyzer.py
+  512  /Users/carygutknecht/opt/anaconda3/bin/python /Users/carygutknecht/Desktop/FinTech_Workspace/BTCampSPOT_Modules/Challenge_files/loan_analyzer.py
+  513  /Users/carygutknecht/opt/anaconda3/bin/python /Users/carygutknecht/Desktop/FinTech_Workspace/BTCampSPOT_Modules/Challenge_files/loan_analyzer.py
+  514  /Users/carygutknecht/opt/anaconda3/bin/python /Users/carygutknecht/Desktop/FinTech_Workspace/BTCampSPOT_Modules/Challenge_files/loan_analyzer.py
+  515  /Users/carygutknecht/opt/anaconda3/bin/python /Users/carygutknecht/Desktop/FinTech_Workspace/BTCampSPOT_Modules/Challenge_files/loan_analyzer.py
+  516  /Users/carygutknecht/opt/anaconda3/bin/python /Users/carygutknecht/Desktop/FinTech_Workspace/BTCampSPOT_Modules/Challenge_files/loan_analyzer.py
+  517  /Users/carygutknecht/opt/anaconda3/bin/python /Users/carygutknecht/Desktop/FinTech_Workspace/BTCampSPOT_Modules/Challenge_files/loan_analyzer.py
+  518  /Users/carygutknecht/opt/anaconda3/bin/python /Users/carygutknecht/Desktop/FinTech_Workspace/BTCampSPOT_Modules/Challenge_files/loan_analyzer.py
+  519  /Users/carygutknecht/opt/anaconda3/bin/python /Users/carygutknecht/Desktop/FinTech_Workspace/BTCampSPOT_Modules/Challenge_files/loan_analyzer.py
+  520  /Users/carygutknecht/opt/anaconda3/bin/python /Users/carygutknecht/Desktop/FinTech_Workspace/BTCampSPOT_Modules/Challenge_files/loan_analyzer.py
+  521  /Users/carygutknecht/opt/anaconda3/bin/python /Users/carygutknecht/Desktop/FinTech_Workspace/BTCampSPOT_Modules/Challenge_files/loan_analyzer.py
+  522  clear
+  523  /Users/carygutknecht/opt/anaconda3/bin/python /Users/carygutknecht/Desktop/FinTech_Workspace/BTCampSPOT_Modules/Challenge_files/loan_analyzer.py
+  524  /Users/carygutknecht/opt/anaconda3/bin/python /Users/carygutknecht/Desktop/FinTech_Workspace/BTCampSPOT_Modules/Challenge_files/loan_analyzer.py
+  525  /Users/carygutknecht/opt/anaconda3/bin/python /Users/carygutknecht/Desktop/FinTech_Workspace/BTCampSPOT_Modules/Challenge_files/loan_analyzer.py
+  526  /Users/carygutknecht/opt/anaconda3/bin/python /Users/carygutknecht/Desktop/FinTech_Workspace/BTCampSPOT_Modules/Challenge_files/loan_analyzer.py
+  527  /Users/carygutknecht/opt/anaconda3/bin/python /Users/carygutknecht/Desktop/FinTech_Workspace/BTCampSPOT_Modules/Challenge_files/loan_analyzer.py
+  528  /Users/carygutknecht/opt/anaconda3/bin/python /Users/carygutknecht/Desktop/FinTech_Workspace/BTCampSPOT_Modules/Challenge_files/loan_analyzer.py
+  529  git status
+  530  git log
+  531  git branch -a
+  532  git status
+  533  ls
+  534  cd Desktop
+  535  ls
+  536  cd FinTech_Workspace/
+  537  ls
+  538  cd BTCampSPOT_Modules
+  539  ls
+  540  cd Challenge_files
+  541  ls
+  542  git status
+  543  ls
+  544  git add loan_analyzer.py
+  545  ls
+  546  git status
+  547  git commit -m "finished loan_analyzer"
+  548  git push
+  549  git origin
+  550  git remote add origin https://github.com/Knecht2ME/GitHub_upload
+  551  git branch
+  552  git push
+  553  git push --set-upstream origin master
+  554  ls
+  555  git status
+  556  git branc
+  557  git branch
+  558  git checkout main
+  559  git origin
+  560  git branch -a
+  561  git pull
+  562  git status
+  563  git branch -a
+  564  git merge main
+  565  git merge origin/main
+  566  checkout origin/main
+  567  git checkout origin/main
+  568  git merge master
+  569  checkout master
+  570  git checkout master
+  571  git push
+  572  git push --set-upstream origin master
+  573  clear
+  574  app.py
+  575  clear
+  576  /Users/carygutknecht/opt/anaconda3/bin/python /Users/carygutknecht/Desktop/FinTech_Workspace/BTCampSPOT_Modules/01_Loan_Qualifier_Financial_Calculations/Unsolved/app.py
+  577  /Users/carygutknecht/opt/anaconda3/bin/python /Users/carygutknecht/Desktop/FinTech_Workspace/BTCampSPOT_Modules/01_Loan_Qualifier_Financial_Calculations/Unsolved/app.py
+  578  clear
+  579  /Users/carygutknecht/opt/anaconda3/bin/python /Users/carygutknecht/Desktop/FinTech_Workspace/BTCampSPOT_Modules/01_Loan_Qualifier_Financial_Calculations/Solved/app.py
+  580  clear
+  581  /Users/carygutknecht/opt/anaconda3/bin/python /Users/carygutknecht/Desktop/FinTech_Workspace/BTCampSPOT_Modules/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py
+  582  /Users/carygutknecht/opt/anaconda3/bin/python /Users/carygutknecht/Desktop/FinTech_Workspace/BTCampSPOT_Modules/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py
+  583  /Users/carygutknecht/opt/anaconda3/bin/python /Users/carygutknecht/Desktop/FinTech_Workspace/BTCampSPOT_Modules/01_Modularize_Your_Loan_Qualifier_Application/app.py
+  584  /Users/carygutknecht/opt/anaconda3/bin/python /Users/carygutknecht/Desktop/FinTech_Workspace/BTCampSPOT_Modules/01_Modularize_Your_Loan_Qualifier_Application/app.py
+  585  /Users/carygutknecht/opt/anaconda3/bin/python /Users/carygutknecht/Desktop/FinTech_Workspace/BTCampSPOT_Modules/01_P2_Modularize_Your_Loan_Qualifier_Application_Part_2/Unsolved/app.py
+  586  clear
+  587  /Users/carygutknecht/opt/anaconda3/bin/python /Users/carygutknecht/Desktop/FinTech_Workspace/BTCampSPOT_Modules/01_P2_Modularize_Your_Loan_Qualifier_Application_Part_2/Solved/app.py
+  588  clear
+  589  import fire
+  590  /Users/carygutknecht/opt/anaconda3/bin/python /Users/carygutknecht/Desktop/FinTech_Workspace/cli.py
+  591  /Users/carygutknecht/opt/anaconda3/bin/python /Users/carygutknecht/Desktop/FinTech_Workspace/cli.py
+  592  /Users/carygutknecht/opt/anaconda3/bin/python /Users/carygutknecht/Desktop/FinTech_Workspace/cli.py
+  593  python cli.py
+  594  conda activaet
+  595  conda activate
+  596  clear
+  597  /Users/carygutknecht/opt/anaconda3/bin/python /Users/carygutknecht/Desktop/FinTech_Workspace/BTCampSPOT_Modules/dialog.py
+  598  /Users/carygutknecht/opt/anaconda3/bin/python /Users/carygutknecht/Desktop/FinTech_Workspace/BTCampSPOT_Modules/dialog.py
+  599  /Users/carygutknecht/opt/anaconda3/bin/python /Users/carygutknecht/Desktop/FinTech_Workspace/BTCampSPOT_Modules/dialog.py
+  600  python dialog.py
+  601  pwd
+  602  ls
+  603  ..
+  604  cd
+  605  pwd
+  606  cd
+  607  ls
+  608  cd Documents
+  609  ..
+  610  pwd
+  611  cd..
+  612  cd.
+  613  cd..
+  614  cd.
+  615  cd~
+  616  cd
+  617  pwd
+  618  ls
+  619  cd Desktop
+  620  pwd
+  621  ls
+  622  cd Fintech_Workspace
+  623  ls
+  624  cd BTCampSPOT_Modules
+  625  ls
+  626  python dialog.py
+  627  python dialog.py
+  628  ls
+  629  02_Adding
+  630  CD 02_Adding_questionary_to_Loan_Qualifier
+  631  python app.py --credit_score=750 --debt=5000 --income=20000
+  632  cd 02_Adding_questionary_to_Loan_Qualifier
+  633  python app.py --credit_score=750 --debt=5000 --income20000
+  634  ls
+  635  cd unsolved
+  636  ls
+  637  python app.py --credit_s\ncore=750 --debt=5000 --income20000
+  638  app.py
+  639  python app.py
+  640  python app.py --credit_score=750 debt=5000 --income=20000
+  641  pwd
+  642  cs.
+  643  cd.
+  644  cd..
+  645  cd~
+  646  cd ~
+  647  cd Desktop
+  648  cd Fintech\ Boot\ Camp
+  649  pwd
+  650  ls
+  651  cd~
+  652  cd~
+  653  cd ~
+  654  cd Desktop
+  655  pwd
+  656  ls
+  657  cd Fintech_Workspace
+  658  ls
+  659  cd 2.4.3
+  660  git status
+  661  git add README.md
+  662  git status
+  663  touch
+  664   touch new_file.txt
+  665  ls
+  666  git status
+  667  git add new_file.txt
+  668  git status
+  669  git commit -m "<Your commit message>"
+  670  git status
+  671  git push
+  672  git clone https://github.com/Knecht2ME/2.4.5.git
+  673  git push
+  674  git status
+  675   git add 2.4.5
+  676  ls
+  677  cd
+  678  clear
+  679  ls
+  680  cd Desktop
+  681  pwd
+  682  ls
+  683  cd FinTech_Workspace
+  684  cd Starter_Code\ 2
+  685  ls
+  686  git clone https://github.com/Knecht2ME/Challenge-2.git
+  687  git status
+  688  git add Starter_code
+  689  cd
+  690  cd Desktop
+  691  ls
+  692  cd Fintech_Workspace
+  693  ls
+  694  cd Starter_Code\ 2
+  695  git add Starter_code
+  696  ls
+  697  git clone https://github.com/Knecht2ME/Challenge-2.git
+  698  git status
+  699  git add challenege 2
+  700  ls
+  701  git add Challenge-2
+  702  git submodule add <url> Starter_Code 2/Challenge-2
+  703  git add loan_qualifier_app
+  704  git add app.py
+  705  cd README.md
+  706  ls
+  707  cd loan_qualifier_app
+  708  git add loan_qualifier_app
+  709  git add app.py
+  710  git status
+  711  git commit -m "Initial commit"
+  712  git status
+  713  git push
+  714  git status
+  715  git push
+  716  git status
+  717  /Users/carygutknecht/opt/anaconda3/bin/python "/Users/carygutknecht/Desktop/FinTech_Workspace/Starter_Code 2/loan_qualifier_app/app.py"
+  718  /Users/carygutknecht/opt/anaconda3/bin/python "/Users/carygutknecht/Desktop/FinTech_Workspace/Starter_Code 2/loan_qualifier_app/app.py"
+  719  /Users/carygutknecht/opt/anaconda3/bin/python "/Users/carygutknecht/Desktop/FinTech_Workspace/Starter_Code 2/loan_qualifier_app/app.py"
+  720  /Users/carygutknecht/opt/anaconda3/bin/python "/Users/carygutknecht/Desktop/FinTech_Workspace/Starter_Code 2/loan_qualifier_app/app.py"
+  721  save_csv
+  722  csvpath
+  723  python app.py
+  724  /Users/carygutknecht/opt/anaconda3/bin/python "/Users/carygutknecht/Desktop/FinTech_Workspace/Starter_Code 2/loan_qualifier_app/app.py"
+  725  python app.py
+  726  python app.py
+  727  python app.py
+  728  python app.py
+  729  python app.py
+  730  python spp.py
+  731  python app.py
+  732  /Users/carygutknecht/opt/anaconda3/bin/python "/Users/carygutknecht/Desktop/FinTech_Workspace/Starter_Code 2/loan_qualifier_app/app.py"
+  733  /Users/carygutknecht/opt/anaconda3/bin/python "/Users/carygutknecht/Desktop/FinTech_Workspace/Starter_Code 2/loan_qualifier_app/app.py"
+  734  python app.py
+  735  /Users/carygutknecht/opt/anaconda3/bin/python "/Users/carygutknecht/Desktop/FinTech_Workspace/Starter_Code 2/loan_qualifier_app/app.py"
+  736  python app.py
+  737  /Users/carygutknecht/opt/anaconda3/bin/python "/Users/carygutknecht/Desktop/FinTech_Workspace/Starter_Code 2/loan_qualifier_app/app.py"
+  738  python app.py
+  739  python app.py
+  740  python app.py
+  741  cd
+  742  cd~
+  743  ls
+  744  cd Desktop
+  745  ls
+  746  cd FinTech_Workspace
+  747  ls
+  748  cd Starter_code
+  749  cd Starter_Code\ 2
+  750  ls
+  751  cd Challenge-2
+  752  history 50 > terminal_history.txt
